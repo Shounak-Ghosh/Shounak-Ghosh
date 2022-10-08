@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML, particularly computer vision applications.
 - 🌱 I’m currently completing my first year at NYU Tandon's CS program.
 - 💞️ I’m looking to collaborate on any projects over summer 2023!
-- 📫 How to reach me:[Email](mailto:shounak.ghosh.nyu.edu)
+- 📫 How to reach me: [Email](mailto:shounak.ghosh.nyu.edu), [Linkedin](https://linkedin.com/in/shounak-ghosh-436b251b0)
 
 
 <!---
