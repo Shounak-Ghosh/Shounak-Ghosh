@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shounak-Ghosh
-- 👀 I’m interested in ML, particularly computer vision applications.
-- 🌱 I’m currently completing my first year at NYU Tandon's CS program.
-- 💞️ I’m looking to collaborate on any projects over summer 2023!
+- 👀 I’m interested in ML, particularly computer vision and image classification applications.
+- 🌱 I’m currently completing my first year at NYU Tandon School of Engineering's CS program.
+- 💞️ I’m looking for internship work for summer 2023!
 - 📫 How to reach me: [Email](mailto:shounak.ghosh.nyu.edu), [Linkedin](https://linkedin.com/in/shounak-ghosh-436b251b0)
 
 
