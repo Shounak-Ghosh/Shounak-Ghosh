@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shounak-Ghosh
 - 👀 I’m interested in ML, particularly computer vision and image classification applications.
-- 🌱 I’m currently completing my final year of undergrad at NYU Tandon School of Engineering's CS program.
-- 💞️ I’m looking for internships/full time roles for May 2025 onwards!
+- 🌱 I’m currently completing my masters in CS at NYU Tandon's School of Engineering and my online masters in AI at UT Austin. 
+- 💞️ I’m looking for internships/full time roles for May 2026 onwards!
 - 📫 How to reach me: [Email](mailto:shounak.ghosh.nyu.edu), [Linkedin](https://linkedin.com/in/shounak-ghosh-436b251b0), [Leetcode!](https://leetcode.com/shounakg03/)
 
 
